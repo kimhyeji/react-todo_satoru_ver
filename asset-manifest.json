@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-todo-my_note/static/css/main.14ceb381.css",
-    "main.js": "/react-todo-my_note/static/js/main.d40dbf50.js",
-    "static/media/111.png": "/react-todo-my_note/static/media/111.707fa574d3d2457d6729.png",
-    "index.html": "/react-todo-my_note/index.html",
-    "main.14ceb381.css.map": "/react-todo-my_note/static/css/main.14ceb381.css.map",
-    "main.d40dbf50.js.map": "/react-todo-my_note/static/js/main.d40dbf50.js.map"
+    "main.css": "/react-todo_satoru_ver/static/css/main.14ceb381.css",
+    "main.js": "/react-todo_satoru_ver/static/js/main.7684515d.js",
+    "static/media/111.png": "/react-todo_satoru_ver/static/media/111.707fa574d3d2457d6729.png",
+    "index.html": "/react-todo_satoru_ver/index.html",
+    "main.14ceb381.css.map": "/react-todo_satoru_ver/static/css/main.14ceb381.css.map",
+    "main.7684515d.js.map": "/react-todo_satoru_ver/static/js/main.7684515d.js.map"
   },
   "entrypoints": [
     "static/css/main.14ceb381.css",
-    "static/js/main.d40dbf50.js"
+    "static/js/main.7684515d.js"
   ]
 }
