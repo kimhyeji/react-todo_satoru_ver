@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/react-todo_satoru_ver/static/css/main.14ceb381.css",
-    "main.js": "/react-todo_satoru_ver/static/js/main.7684515d.js",
+    "main.css": "/react-todo_satoru_ver/static/css/main.4a349a6b.css",
+    "main.js": "/react-todo_satoru_ver/static/js/main.8ad52b81.js",
+    "static/media/444.jpg": "/react-todo_satoru_ver/static/media/444.fd30bdb5841771dfa9c3.jpg",
     "static/media/111.png": "/react-todo_satoru_ver/static/media/111.707fa574d3d2457d6729.png",
+    "static/media/333.jpg": "/react-todo_satoru_ver/static/media/333.5df8ef4d6a808e6ad33b.jpg",
+    "static/media/777.png": "/react-todo_satoru_ver/static/media/777.ee2d3257d2612cf4d668.png",
     "index.html": "/react-todo_satoru_ver/index.html",
-    "main.14ceb381.css.map": "/react-todo_satoru_ver/static/css/main.14ceb381.css.map",
-    "main.7684515d.js.map": "/react-todo_satoru_ver/static/js/main.7684515d.js.map"
+    "main.4a349a6b.css.map": "/react-todo_satoru_ver/static/css/main.4a349a6b.css.map",
+    "main.8ad52b81.js.map": "/react-todo_satoru_ver/static/js/main.8ad52b81.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ceb381.css",
-    "static/js/main.7684515d.js"
+    "static/css/main.4a349a6b.css",
+    "static/js/main.8ad52b81.js"
   ]
 }
